@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @priyakhakrode02
 - 🌱 I’m currently learning 日本語
-- 
 - 📫 khakrodepriya02@gmail.com
 
 <!---
