@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @priyakhakrode02
-- 👀 I’m interested in devops and Cloud
-- 🌱 I’m currently learning devops
+- 👀 
+- 🌱 I’m currently learning 日本語
+- 
 - 📫 khakrodepriya02@gmail.com
 
 <!---
